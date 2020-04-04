@@ -19,3 +19,5 @@ This file creates a side-by-side boxplot for the number of vetos as 'useful' by 
 #Visualization3
 This file creates a scatterplot of number of votes as 'useful' vs. number of votes as 'funny'.
 
+#Result Explanation
+This document explains the results obtained from the visualization. 
